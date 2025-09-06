@@ -33,7 +33,7 @@ Achieved **93.54% accuracy** on evaluation datasets.
 - 🖼 **UI Screenshots**: [mediaUI folder](./mediaUI/)  
 - 📓 **Full Pipeline Notebook**: [TAFAHAS full pipeline.ipynb](./TAFAHAS%20full%20pipeline.ipynb)  
 - 📓 **Model-Only Notebook**: [TAFAHAS model only.ipynb](./TAFAHAS%20model%20only.ipynb)  
-- ☁ **Kaggle Model Dataset**: [TAFAHAS Model on Kaggle](your-kaggle-link-here)  
+
 
 ---
 
